@@ -15,7 +15,7 @@ Research Interests
 ------
 Wireless sensing, Mobile Computing, Internet of Things (IoT)
 
-Conference Papers Honors & Awards
+Conference Papers
 ------
 **[INFOCOM'21] ShakeReader: 'Read' UHF RFID using Smartphone.**
 
