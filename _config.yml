@@ -10,7 +10,7 @@ locale                   : "Hong Kong"
 title                    : "Kaiyan CUI"
 title_separator          : "-"
 name                     : &name "Kaiyan CUI"
-description              : &description "PhD Student"
+description              : &description "Ph.D Student"
 url                      : "https://kelly-cui.github.io/homepage" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaiyan CUI"
   avatar           : "photo-Kaiyan (1).jpg"
-  bio              : "PhD Student"
+  bio              : "Ph.D Student"
   location         : "Hong Kong"
   employer         :
   email            : kaiyan.cui@connect.polyu.hk
