@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student and participate in the Joint Doctor of Philosophy (PhD) Programme Leading to Dual Awards offered by the Hong Kong Polytechnic University and Xi’an Jiaotong University. I received the BS degree from Taiyuan University of Technology in 2016. 
+-I am a PhD student and participate in the Joint Doctor of Philosophy (PhD) Programme Leading to Dual Awards offered by the Hong Kong Polytechnic University and Xi’an Jiaotong University. I received the BS degree from Taiyuan University of Technology in 2016. 
 
 Research Interests
 ======
