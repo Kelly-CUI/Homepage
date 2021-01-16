@@ -15,21 +15,27 @@ Research Interests
 ======
 Wireless sensing, Mobile Computing, Internet of Things (IoT)
 
-Conference Papers
+Publications
 ======
+Conference Papers
+------
 **[INFOCOM'21] ShakeReader: 'Read' UHF RFID using Smartphone.**
 <u>Kaiyan Cui</u>, Yanwen Wang, Yuanqing Zheng, Jinsong Han
+
 **[INFOCOM'20] A Universal Method to Combat Multipaths for RFID Sensing.**
 Ge Wang, Chen Qian, <u>Kaiyan Cui</u>, Xiaofeng Shi, Han Ding, Wei Xi, Jizhong Zhao, Jinsong Han
+
 **[ICNP'19] A (Near) Zero-cost and Universal Method to Combat Multipaths for RFID Sensing.**
 Ge Wang, Chen Qian, <u>Kaiyan Cui</u>, Han Ding, Haofan Cai, Wei Xi, Jinsong Han, Jizhong Zhao
+
 **[ICCCS] Accurate UHF Tag Authentication Using Near-Field Capabilities.**
 Cui Zhao, Han Ding, <u>Kaiyan Cui</u>, Fan Liang
 
 Journal Articles
-======
+------
 **[TMC] HMO: Ordering RFID Tags with Static Devices in Mobile Environments.**
 Ge Wang, Chen Qian, Longfei Shangguan, Han Ding, Jinsong Han, <u>Kaiyan Cui</u>, Wei Xi, Jizhong Zhao
+
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
