@@ -13,7 +13,7 @@ name                     : &name "Kaiyan CUI"
 description              : &description "PhD Student"
 url                      : https://kelly-cui.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kelly-cui.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaiyan CUI"
   avatar           : "profile.png"
-  bio              : "The Hong Kong Polytechnic University & Xi'an Jiaotong University"
+  bio              : "PhD Student"
   location         : "Hong Kong"
   employer         :
   email            : "kaiyan.cui@connect.polyu.hk"
