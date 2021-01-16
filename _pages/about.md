@@ -29,13 +29,13 @@ Ge Wang, Chen Qian, <u>Kaiyan Cui</u>, Xiaofeng Shi, Han Ding, Wei Xi, Jizhong Z
 
 Ge Wang, Chen Qian, <u>Kaiyan Cui</u>, Han Ding, Haofan Cai, Wei Xi, Jinsong Han, Jizhong Zhao
 
-**[ICCCS] Accurate UHF Tag Authentication Using Near-Field Capabilities.**
+**[ICCCS'18] Accurate UHF Tag Authentication Using Near-Field Capabilities.**
 
 Cui Zhao, Han Ding, <u>Kaiyan Cui</u>, Fan Liang
 
 Journal Articles
 ------
-**[TMC] HMO: Ordering RFID Tags with Static Devices in Mobile Environments.**
+**[TMC'20] HMO: Ordering RFID Tags with Static Devices in Mobile Environments.**
 
 Ge Wang, Chen Qian, Longfei Shangguan, Han Ding, Jinsong Han, <u>Kaiyan Cui</u>, Wei Xi, Jizhong Zhao
 
