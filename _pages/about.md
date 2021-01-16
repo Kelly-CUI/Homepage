@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
--I am a PhD student and participate in the Joint Doctor of Philosophy (PhD) Programme Leading to Dual Awards offered by Xi’an Jiaotong University (XJTU) and The Hong Kong Polytechnic University (PolyU). My supervisors are [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0) and [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/).  I received the BS degree from Taiyuan University of Technology in 2016. 
+I am a PhD student and participate in the Joint Doctor of Philosophy (PhD) Programme Leading to Dual Awards offered by Xi’an Jiaotong University (XJTU) and The Hong Kong Polytechnic University (PolyU). My supervisors are [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0) and [Prof. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/).  I received the BS degree from Taiyuan University of Technology in 2016. 
 
--Currently, I am studying at PolyU under the supervision of Prof. Yuanqing Zheng.
+Currently, I am studying at PolyU under the supervision of Prof. Yuanqing Zheng.
 
 Research Interests
 ======
