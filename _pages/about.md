@@ -11,9 +11,11 @@ I am a PhD student and participate in the Joint Doctor of Philosophy (PhD) Progr
 
 Currently, I am studying at PolyU.
 
+
 Research Interests
 ------
 Wireless sensing, Mobile Computing, Internet of Things (IoT)
+
 
 Conference Papers
 ------
@@ -39,6 +41,7 @@ Journal Articles
 
 Ge Wang, Chen Qian, Longfei Shangguan, Han Ding, Jinsong Han, <u>Kaiyan Cui</u>, Wei Xi, Jizhong Zhao
 
+
 Honors & Awards
 ------
 Service Award-- ACM Turing Celebration Conference, China, 2018
@@ -50,6 +53,7 @@ Professional learning scholarship, 2015
 Professional learning scholarship, 2014
 
 Professional learning scholarship, 2013
+
 
 Teaching Experience
 ------
